@@ -3,7 +3,7 @@ import java.util.Random;
 public class Main {
 
     public static void main(String[] args) {
-        Player player = new PlayerHuman("Janusz");
+        Player player = new PlayerHuman("Jan");
         //player.setName("");
         int number, guess;
         Random dice = new Random();
