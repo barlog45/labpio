@@ -1,4 +1,0 @@
-/usr/bin/bash: wq: command not found
-sdsadsdaa
-a
-asdasdaas
